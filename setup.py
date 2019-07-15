@@ -8,8 +8,8 @@ setup(
   description = 'Lib for arithmetic operations',   # Give a short description about your library
   author = 'PYTHON DEV',                   # Type in your name
   author_email = 'pythonDev.2030@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/pythonDev2060/logion_operations.git',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/pythonDev2060/logion_operations.git/archive/v_01.tar.gz',    # I explain this later on
+  url = 'https://github.com/pythonDev2060/logion_operations',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/pythonDev2060/logion_operations/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['ARITHMETIC', 'OPERATIONS', 'GRAPHS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
 
